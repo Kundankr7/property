@@ -1,0 +1,17 @@
+
+> one-stop-property-solutions@1.0.0 dev
+> next dev -H 127.0.0.1
+
+  ▲ Next.js 14.2.3
+  - Local:        http://127.0.0.1:3002
+  - Network:      http://127.0.0.1:3002
+  - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 7.9s
+ ○ Compiling /property/[slug] ...
+ ✓ Compiled /property/[slug] in 15.7s (1450 modules)
+ GET /plotted-developments 200 in 17019ms
+ GET /property/2bhk-flat-akshar-geomatrix-sector-25-khandeshwar 200 in 18700ms
+ GET /property/venice-of-mumbai-3-riverfront-plots-karjat 200 in 18724ms
+ ✓ Compiled in 10.6s (718 modules)
